@@ -1,0 +1,29 @@
+/* ------font-roboto-background---*/
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color: fff;
+}
+/*-----background--du--navbar---*/
+.navbar {
+    background-color: black;
+    padding: 10px;
+}
+/*-----l'organisation--du--nav-list*/
+.Nav-list {
+    list-style: none;
+    padding: 2px;
+    margin: 2px;
+    display: inline-flex;
+}
+/*---le--margin--du--nav-item----*/
+.Nav-item {
+    margin-right: 20px;
+}
+/*----l'organisation--du--nav-item-a-----*/
+.Nav-item a {
+    text-decoration: none;
+    color: 333;
+    font-size: 18px;
+}
+
